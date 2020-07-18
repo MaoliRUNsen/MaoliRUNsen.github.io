@@ -8,4 +8,32 @@
     
   </url>
   
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2020-07-18T10:15:19.656Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2020-07-18T10:15:19.656Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/gallery/index.html</loc>
+    
+    <lastmod>2020-07-18T10:15:19.656Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/slides/index.html</loc>
+    
+    <lastmod>2020-07-18T10:15:19.656Z</lastmod>
+    
+  </url>
+  
 </urlset>
